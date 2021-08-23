@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viperadnan-git/tiiny.git"
+    "url": "git+https://github.com/avasthi-git/tiiny.git"
   },
   "keywords": [
     "url",
@@ -17,12 +17,12 @@
     "shortner",
     "deta"
   ],
-  "author": "Adnan Ahmad",
+  "author": "Ishan Avasthi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/viperadnan-git/tiiny/issues"
+    "url": "https://github.com/avasthi-git/tiiny/issues"
   },
-  "homepage": "https://github.com/viperadnan-git/tiiny#readme",
+  "homepage": "https://github.com/avasthi-git/tiiny#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "deta": "^1.0.0",
